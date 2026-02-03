@@ -22,11 +22,12 @@ Beyond data, I enjoy sports and continuous learning. I’m especially motivated 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 What I'm Currently Working On
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **E-commerce Sales Dashboard**: Building an end-to-end Power BI dashboard with data cleaning, a custom date table, DAX measures (revenue, margin), and RFM analysis.
+- **Business Reporting Automation**: Automating recurring reporting tasks using SQL and Power BI to improve decision-making efficiency.
+- **Data Visualization Practice**: Enhancing data storytelling and interactivity using Looker Studio and advanced Power BI features.
+
 
 ## 🌱 Currently Learning
 
