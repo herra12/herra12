@@ -24,9 +24,9 @@ Beyond data, I enjoy sports and continuous learning. I’m especially motivated 
       
 ## 🔭 What I'm Currently Working On
 
-- **E-commerce Sales Dashboard**: Building an end-to-end Power BI dashboard with data cleaning, a custom date table, DAX measures (revenue, margin), and RFM analysis.
-- **Business Reporting Automation**: Automating recurring reporting tasks using SQL and Power BI to improve decision-making efficiency.
-- **Data Visualization Practice**: Enhancing data storytelling and interactivity using Looker Studio and advanced Power BI features.
+- **Sales & Customer Analytics**: Developing analytical models and dashboards to track performance, margins, and customer behavior.
+- **Power BI Optimization**: Improving data models and DAX calculations for better performance and scalability.
+- **Data Workflow Improvement**: Exploring best practices for structuring and automating BI pipelines.
 
 
 ## 🌱 Currently Learning
