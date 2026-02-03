@@ -29,10 +29,13 @@ Beyond data, I enjoy sports and continuous learning. I’m especially motivated 
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
-## 🌱 Currently Learning 
+## 🌱 Currently Learning
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced analytics and predictive modeling using Python (Scikit-learn)
+- Cloud data solutions and integration, e.g., Google BigQuery and Firebase
+- Advanced dashboarding and data storytelling with Looker Studio and Power BI
+- Automating data workflows with Docker and Talend Open Studio
+
 
 ## 🛠️ Technical Skillset
 
